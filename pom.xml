@@ -5,13 +5,13 @@
 
     <groupId>net.dreamstack</groupId>
     <artifactId>starter-kits</artifactId>
-    <version>1.0.0.BUILD-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Starter Kits</name>
 
     <modules>
-
+        <module>kafir2-application</module>
     </modules>
 
     <properties>
