@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        topic1-in:
+          destination: kafka_topic_in_1
+        topic1-out:
+          destination: kafka_topic_out_1
